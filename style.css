@@ -1,0 +1,279 @@
+.headings{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.envolope{
+    margin-top: 25px;
+    margin-left: 30px;
+    color: blue;
+    
+}
+.phoneline{
+    margin-left: 800px;
+    
+}
+#home{
+    color: rgba(255, 166, 0, 0.959);
+}
+.titles{
+    display: flex;
+    gap: 120px;
+    margin-left: 100px;
+}
+.image{
+    margin-top: 20px;
+    
+}
+ #family{
+    width: 100%;
+ }
+#leftimg{
+    height: 10cm;
+    width: 100%;
+}
+#rightimg{
+    height: 10cm;
+    width: 90%;
+}
+.riaad{
+    display: flex;
+    gap: 80px;
+    margin-left: 160px;
+    margin-top: 150px;
+}
+#learn{
+    color: rgba(255, 166, 0, 0.979);
+    font-weight: bold;
+}
+.aboutus{
+margin-top: 50px;
+}
+.riaads{
+    display: flex;
+    gap: 100px;
+}
+.riaadsince{
+    margin-top: 30px;
+}
+
+#riaad-s{
+color: rgb(255, 166, 0);
+font-weight: bold;
+}
+#year{
+    font-size: 30px;
+}
+.riaadtext{
+margin-left: 30px;
+font-size: 20px;
+}
+.logoipsum{
+    margin-top: 120px;
+    word-spacing:160px;
+    margin-left: 150px;
+}
+
+#services{
+    color: orange;
+    font-weight: bold;
+}
+.ourservices{
+    text-align: center;
+    margin-top: 300px;
+}
+h2{
+    font-size: 50px;
+}
+.potrait{
+
+    margin-left: 250px;
+    margin-top: 100px;
+    display: flex;
+    gap: 250px;
+}
+
+#packingimg{
+    width: 90px;
+}
+#homeimg{
+    width: 90px;
+}
+#transportimg{
+    width: 90px;
+}
+#insuaranceimg{
+    width: 90px;
+}
+.packing{
+    word-spacing: 0px;
+}
+.home{
+    word-spacing: 0px;
+    border:solid 1px;
+    width: 10%;
+    text-align: center;
+    background-color: blue;
+}
+#readmore{
+    color: white;
+}
+.transport{
+    word-spacing: 0px;
+}
+.insuarance{
+    word-spacing: 0px;
+}
+#phase{
+    margin-bottom: 140px;
+}
+#read{
+    color: orange;
+    font-weight: bold;
+}
+#imgvideo{
+    width: 250px;
+}
+.imgvideotext{
+    display: flex;
+    gap: 210px;
+    margin-top: 150px;
+}
+.video{
+    display: flex;
+    gap: 20px;
+}
+h3{
+    margin-left: 200px;
+    font-size: 250%;
+    font-weight:90%;
+    opacity: 70%;
+}
+#paragraph{
+    text-align: center;
+    margin-top: 100px;
+    font-size:110% ;
+    font-weight:bold ;
+}
+#furniture{
+    margin-top: 160px;
+    width: 25%;
+    height: 15cm;
+    margin-left: 110px;
+}
+#choice{
+    color: rgba(255, 166, 0, 0.986);
+    font-weight: bold;
+}
+.leading-business{
+    display: flex;
+    margin-top: 180px;
+    margin-left: 150px;
+
+}
+.text{
+    margin-left: 300px;
+    margin-top: 100px;
+
+}
+.business-text{
+    margin-top: 90px;
+}
+    
+h4{
+    font-size: 290%;
+    color: rgba(0, 0, 0, 0.788);
+}
+.assistance{
+    text-align: center;
+    margin-top: 60px;
+    
+}
+#online{
+    color: orange;
+    font-weight: bold;
+  
+}
+#coupleimg{
+    width: 100%;
+    height: 20cm;
+    margin-top: 80px;
+}
+#bookus{
+    color: orange;
+    font-weight: bold;
+  
+}
+.requestquote{
+    border: solid 1px;
+    margin-top: 60px;
+    display: flex;
+}
+.movingtype{
+    display: flex;
+    padding: 5px;
+}
+.place{
+    display: flex;
+    padding: 5px;
+}
+.destination{
+    display: flex;
+    padding: 5px;
+}
+.form-details{
+    display: flex;
+}
+#testimonials{
+    color: orange;
+    font-weight: bold;
+}
+h5{
+font-size: 260%;
+color: rgba(0, 0, 0, 0.856);
+}
+.form{
+    margin-top: 60px;
+    margin-left: 60px;
+    border:solid 1px;
+}
+
+
+.What{
+    text-align: center;
+    margin-top: 80px;
+}
+#christine{
+    color: orange;
+    font-weight: bold;
+}
+
+.impression{
+    display: flex;
+    gap: 250px;
+    margin-left: 150px;
+    font-size: 130%;
+}
+#email{
+    color:blue;
+}
+#newsletter{
+    color: orange;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 750px;
+    margin-top: 100px;
+
+}
+h6{
+    text-align: center;
+    font-size: 300%;
+}
+.emailaddress{
+display: flex;
+gap: 160px;
+margin-left: 500px;
+}
+#subscribe{
+    color: orange;
+}
